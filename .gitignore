@@ -1,0 +1,19 @@
+# Environment
+venv/
+.env
+
+# Audit output files, contain real account data
+aws_iam_audit.json
+azure_iam_audit.json
+docs/attestation_records.json
+docs/attestation_results.json
+
+# Terraform
+terraform/**/.terraform/
+terraform/**/*.tfstate
+terraform/**/*.tfstate.backup
+terraform/**/.terraform.lock.hcl
+
+# OS clutter
+.DS_Store
+Thumbs.db

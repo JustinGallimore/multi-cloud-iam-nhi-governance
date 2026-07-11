@@ -1,0 +1,114 @@
+Cloud,IdentityType,Name,CreatedDate,Owner,RiskFlag
+AWS,IAM User,jgallimore-admin,2026-07-09 02:20:59+00:00,Justin Gallimore (Lab Owner),None
+AWS,IAM Role,AWSServiceRoleForResourceExplorer,2026-07-09 02:13:36+00:00,Justin Gallimore (Lab Owner),Review trust policy
+AWS,IAM Role,AWSServiceRoleForSupport,2026-07-09 01:43:36+00:00,Justin Gallimore (Lab Owner),Review trust policy
+AWS,IAM Role,AWSServiceRoleForTrustedAdvisor,2026-07-09 01:43:36+00:00,Justin Gallimore (Lab Owner),Review trust policy
+Azure,Service Principal,Azure RBAC Data Plane,2026-05-05 09:17:48+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Azure Multi-Factor Auth Connector,2026-05-10 00:57:05+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,o365.servicecommunications.microsoft.com,2026-05-10 00:59:56+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Skype for Business Online,2026-05-10 00:57:05+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Windows Azure Active Directory,2026-05-05 03:04:07+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Microsoft Threat Protection,2026-05-10 00:57:15+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Microsoft SaaS Hub Resource Provider,2026-05-10 01:00:40+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Azure Management Groups,2026-05-05 03:08:44+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Azure Cloud Shell,2026-05-05 04:30:04+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Dynamic Alerts,2026-05-11 03:39:05+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Office 365 Configure,2026-05-05 03:04:08+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,CompliancePolicy,2026-05-10 00:59:55+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Signup,2026-05-05 03:04:08+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Azure Advisor,2026-05-11 03:33:18+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Office 365 Search Service,2026-05-17 16:21:55+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Application Insights Configuration Service,2026-05-11 03:39:05+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Microsoft Graph Change Tracking,2026-05-05 03:04:15+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Log Analytics API,2026-05-11 03:29:57+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Office 365 SharePoint Online,2026-05-10 00:57:05+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Microsoft Service Trust,2026-05-10 00:57:12+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Microsoft Azure Signup Portal,2026-05-05 03:08:24+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Policy Administration Service,2026-05-05 03:08:42+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Microsoft Azure Alerts Management,2026-05-11 03:41:48+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,AADReporting,2026-05-05 03:10:28+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Office365 Shell WCSS-Server Default,2026-05-10 19:56:23+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,aciapi,2026-05-11 02:32:20+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,IPSubstrate,2026-05-10 00:57:10+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Office 365 Information Protection,2026-05-10 00:57:13+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Substrate Instant Revocation Pipeline,2026-05-10 01:12:24+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Billing RP,2026-05-05 03:08:52+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,My Apps,2026-05-10 19:56:23+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Geneva Alert RP,2026-05-11 03:39:05+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,OMSAuthorizationServicePROD,2026-05-05 03:04:15+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Windows 365,2026-05-10 00:57:15+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Device Registration Service,2026-05-10 00:37:36+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Cortana Runtime Service,2026-05-10 00:57:14+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Azure Smart Alerts,2026-05-11 03:39:05+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Application Insights API,2026-05-11 03:39:05+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Azure Multi-Factor Auth Client,2026-05-10 00:57:16+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Microsoft Graph,2026-05-05 03:04:09+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Azure AD Identity Governance - Entitlement Management,2026-05-10 00:57:16+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,OCaaS Worker Services,2026-05-10 00:57:14+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Metrics Monitor API,2026-05-11 03:39:06+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Dunloe Dataplane Service,2026-05-05 03:08:56+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Narada Notification Service,2026-05-10 00:57:18+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Office 365 Management APIs,2026-05-10 00:57:11+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Azure Monitor System,2026-05-11 03:39:05+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Diagnostic Services Trusted Storage Access,2026-05-11 03:39:06+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Microsoft Azure AD Identity Protection,2026-05-09 23:57:48+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,IAMTenantCrawler,2026-05-10 19:49:29+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Workload Identity Control Plane,2026-07-10 00:19:36+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Microsoft Commerce Accounts Service,2026-05-05 03:04:28+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Connectors,2026-05-10 00:57:13+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Azure AD Notification,2026-05-08 00:31:59+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,CPIM Service,2026-05-05 04:42:11+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Office 365 Exchange Online,2026-05-10 00:57:04+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,IAM-Metrics-Dashboard,2026-05-05 03:20:48+00:00,Justin Gallimore (Lab Owner),Needs owner assignment
+Azure,Service Principal,Microsoft SaaS Hub Resource Provider AirCapi,2026-05-10 01:00:40+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,OneProfile Service,2026-05-10 00:57:12+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Sherlock,2026-05-11 03:41:48+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Microsoft password reset service,2026-05-10 00:37:03+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,PowerApps Service,2026-05-17 16:21:55+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,OCaaS Experience Management Service,2026-05-10 00:57:14+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,OCaaS Client Interaction Service,2026-05-10 00:57:14+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Microsoft Approval Management,2026-05-10 00:57:16+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Microsoft.SMIT,2026-05-05 03:04:15+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,M365 License Manager,2026-05-10 00:48:12+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,AzureSupportCenter,2026-05-05 03:04:14+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Azure Resource Manager,2026-05-05 03:04:08+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Diagnostic Services Data Access,2026-05-11 03:39:06+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Microsoft Operations Management Suite,2026-05-11 03:29:57+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,O365 Secure Score,2026-05-10 00:57:12+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,O365 Demeter,2026-05-10 00:59:54+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Microsoft Graph Command Line Tools,2026-05-05 04:36:37+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Microsoft Exchange Online Protection,2026-05-10 00:57:10+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Microsoft Office Licensing Service,2026-05-10 19:59:39+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Request Approvals Read Platform,2026-05-10 00:57:16+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,MS-PIM,2026-05-08 00:32:01+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,M365 Admin Services,2026-05-10 00:48:11+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,CloudLicensingSystem,2026-05-10 19:56:21+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Bing,2026-05-10 00:57:11+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,M365 App Management Service,2026-05-10 00:48:11+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Microsoft Azure Log Search Alerts,2026-05-11 03:39:05+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Microsoft Modern Contact Master,2026-05-05 03:39:16+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Microsoft App Access Panel,2026-05-05 03:04:08+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Azure ESTS Service,2026-05-05 03:04:09+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,MCAPI Authorization Prod,2026-05-05 03:04:14+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Azure Virtual Desktop ARM Provider,2026-05-10 00:57:15+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,OfficeClientService,2026-05-10 00:57:11+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Office365 Shell SS-Server Default,2026-05-10 00:48:11+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Azure Monitor Control Service,2026-05-11 03:39:05+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,AAD Request Verification Service - PROD,2026-05-05 03:04:14+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,IAM Supportability,2026-05-05 03:04:15+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Azure Notification Service,2026-05-11 03:39:05+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Microsoft Information Protection Sync Service,2026-05-10 00:57:13+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Cortana at Work Service,2026-05-10 00:57:10+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,M365AdminAgent,2026-05-10 00:48:11+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Azure AD Identity Protection,2026-05-12 05:09:15+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Azure Credential Configuration Endpoint Service,2026-05-05 03:10:29+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Azure MFA StrongAuthenticationService,2026-05-10 00:39:06+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Azure Resource Graph,2026-05-05 03:08:39+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,CABProvisioning,2026-05-05 03:08:40+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Office365DirectorySynchronizationService,2026-05-17 16:21:53+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Microsoft Cloud App Security,2026-05-10 00:57:04+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Azure Monitor Restricted,2026-05-11 03:39:05+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,M365PurvieweDiscoveryService,2026-05-10 00:57:13+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Azure Virtual Desktop,2026-05-10 00:57:15+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,Service Principal,Microsoft Office 365 Portal,2026-05-10 00:48:11+00:00,Microsoft / Third-Party (not tenant-owned),None - external service
+Azure,App Registration,IAM-Metrics-Dashboard,2026-05-05 03:20:48+00:00,Justin Gallimore (Lab Owner),"Has active secret, verify rotation"
