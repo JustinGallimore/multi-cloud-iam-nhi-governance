@@ -1,0 +1,28 @@
+# oidc-test.yml
+# Purpose: Proves OIDC federation works end to end. Requests a short
+# lived identity token from GitHub, uses it to assume the AWS IAM
+# role created in Phase 6, then calls sts:GetCallerIdentity to
+# confirm the assumed identity. No AWS access keys are stored in
+# GitHub at any point.
+
+name: OIDC Federation Test
+
+on:
+  workflow_dispatch:
+
+permissions:
+  id-token: write
+  contents: read
+
+jobs:
+  test-oidc:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Configure AWS credentials via OIDC
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: arn:aws:iam::233397750752:role/github-actions-oidc-test-role
+          aws-region: us-east-2
+
+      - name: Confirm identity
+        run: aws sts get-caller-identity
